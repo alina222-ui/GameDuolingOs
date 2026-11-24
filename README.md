@@ -1,1 +1,1 @@
-# GameDuolingOs
+Duolingo только с изучением осетинского. 
